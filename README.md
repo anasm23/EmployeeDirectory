@@ -7,7 +7,7 @@
 A link to the deployed site:
 
 Screenshot:
-![ReactApp.gif] 
+
 <img src="empdirect/Assets/ReactApp.gif"> </img>
 
 ## Installation
